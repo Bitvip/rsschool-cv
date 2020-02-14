@@ -8,6 +8,7 @@
 
 5. Latest projects:
 ```
+
  $sth = $dbh->prepare("SELECT * FROM `b_iblock_element` WHERE `XML_ID` = ?");
  $sth->execute(array($article));
  $prod = $sth->fetch(PDO::FETCH_ASSOC);
