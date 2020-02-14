@@ -1,1 +1,1 @@
-https://Bitvip.github.io/rsschool-cv/cv
+https://Bitvip.github.io/rsschool-cv/cv 
