@@ -7,9 +7,8 @@
 4. HTML, CSS, JS basics,PHP basics, С# and C++ basics.
 
 5. Latest projects:
-```
 
- $sth = $dbh->prepare("SELECT * FROM `b_iblock_element` WHERE `XML_ID` = ?");
+ ```$sth = $dbh->prepare("SELECT * FROM `b_iblock_element` WHERE `XML_ID` = ?");
  $sth->execute(array($article));
  $prod = $sth->fetch(PDO::FETCH_ASSOC);
 
