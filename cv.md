@@ -1,6 +1,6 @@
 # Vitaliy, Zhyk.
 
-** E-mail: vetal8035457@mail.ru, **Telegram: bitvik, **Phone: +375298035457.
+*E-mail:* vetal8035457@mail.ru, *Telegram:* bitvik, *Phone:* +375298035457.
 
 I want to self-develop and continue to find a job.
 
@@ -21,4 +21,4 @@ From personal experience, this is development in C # term papers and a diploma.(
 
 I graduated from the College of Light Industry "BGKLP named after V.E. Chernyshev" with a degree in software and business information processing.I am currently studying at the IIT BSUIR with a degree in Engineering and Psychological Support for Information Technologies 1 year.
 
-My English level is ** Pre-Intermediate.
+My English level is **Pre-Intermediate.**
