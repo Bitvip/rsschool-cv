@@ -18,6 +18,8 @@
    $sth->execute(array($price,$price,$prod['ID']));
  }
  ```
+ 
+
 6. From personal experience, this is development in C # term papers and a diploma.(https://drive.google.com/drive/folders/1j-eemCde8-eP8t1Q9tyNhmm0vldVDmkl)
 
 7. I graduated from the College of Light Industry "BGKLP named after V.E. Chernyshev" with a degree in software and business information processing.I am currently studying at the IIT BSUIR with a degree in Engineering and Psychological Support for Information Technologies 1 year.
