@@ -16,8 +16,7 @@
  if (!empty($prod)) {
    $sth = $dbh->prepare("UPDATE `b_catalog_price` SET `price` = ?,`price_scale`=? WHERE `PRODUCT_ID` = ?");
    $sth->execute(array($price,$price,$prod['ID']));
- }
- ```    
+ }    
  
 6. From personal experience, this is development in C # term papers and a diploma.(https://drive.google.com/drive/folders/1j-eemCde8-eP8t1Q9tyNhmm0vldVDmkl)
 
