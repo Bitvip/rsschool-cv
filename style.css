@@ -1,7 +1,16 @@
-.body{
-    width: 1024;
+*{
+     margin: 0;
+     font-family: "Helvetica", "Arial", sans-serif;    
 }
-.image{
-    background-image: url("white-flecks.png");
-}
+.countainer {
+    display: flex;
 
+    margin:0; 
+    background-image: url("white-flecks.png");
+    width: 1024;
+    margin: 0 auto;
+}
+img{    
+    width: 300;
+    height: 400;
+}
