@@ -1,19 +1,24 @@
 *{
-    margin: 0 auto;
-     font-family: "Helvetica", "Arial", sans-serif;    
-}
-.countainer {
-    margin:0; 
     background-image: url("white-flecks.png");
-    width: 1024;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     
 }
-.info{
-    background-image: url("white-flecks.png");
-}
-img{    
+.container {
     display: flex;
-    align-content: center;
-    width: 300;
-    height: 400;
+    flex-direction:row;
+    justify-content: space-between;
+    margin:0 auto; 
+    font-size: 17px;
+    width: 1024px;
+}
+.code{
+    font-style: italic;
+    color: gray;
+}
+.info{    
+    width:60%;
+}
+img{         
+    width: 370px;
+    height: 470px;
 }
