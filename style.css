@@ -1,16 +1,19 @@
 *{
-     margin: 0;
+    margin: 0 auto;
      font-family: "Helvetica", "Arial", sans-serif;    
 }
 .countainer {
-    display: flex;
-
     margin:0; 
     background-image: url("white-flecks.png");
     width: 1024;
-    margin: 0 auto;
+    
+}
+.info{
+    background-image: url("white-flecks.png");
 }
 img{    
+    display: flex;
+    align-content: center;
     width: 300;
     height: 400;
 }
