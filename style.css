@@ -1,0 +1,24 @@
+*{
+    background-image: url("white-flecks.png");
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    
+}
+.container {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin:0 auto; 
+    font-size: 17px;
+    width: 1024px;
+}
+.code{
+    font-style: italic;
+    color: gray;
+}
+.info{    
+    width:60%;
+}
+img{         
+    width: 370px;
+    height: 470px;
+}
